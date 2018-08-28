@@ -1,12 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Caveat');
+
 .testing {
   width: percentage(5/7);
 }
 
+
+//font-family: 'Caveat', cursive;
+
 h1 {
-  font-family: sans-serif;
+  font-family: 'Caveat', cursive;
   text-align: center;
-  font-size: 2em;
-  color: #666;
+  font-size: 4em;
+  color: red;
 }
 p {
   margin-left: 2em;
